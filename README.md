@@ -9,7 +9,7 @@ This guide explains how to correctly set up and run the Jupyter Notebook for thi
 
 - Python 3.9+
 - This project folder containing:
-  - `climate_displacement.ipynb`
+  - `cs463_final.ipynb`
   - `requirements.txt`
   - All datasets
 
@@ -20,14 +20,14 @@ This guide explains how to correctly set up and run the Jupyter Notebook for thi
 
 ### **Windows**
 ```powershell
-cd C:\Users\<you>\Documents\project_name
+cd <path_to_cloned_repo>
 python -m venv venv
 venv\Scripts\activate
 ```
 
 ### **macOS / Linux**
 ```bash
-cd ~/Documents/project_name
+cd ~<path_to_cloned_repo>
 python3 -m venv venv
 source venv/bin/activate
 ```
@@ -84,7 +84,7 @@ jupyter notebook
 ```
 
 This opens a browser window.  
-Open `climate_displacement.ipynb`.
+Open `cs463_final.ipynb`.
 
 Then select your kernel:
 
