@@ -2,6 +2,7 @@
 ## Environment Setup & Notebook Execution Guide
 
 This guide explains how to correctly set up and run the Jupyter Notebook for this project on **Windows** and **macOS** using a clean Python virtual environment.
+Our aggregated and final dataset we use to train the models is `processed_dataset.csv`
 
 ---
 
